@@ -1,0 +1,21 @@
+.caja2{
+	background-color: green;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top:100px;
+	left: 100px;
+}
+.caja3{
+	background-color: black;
+	width: 100px;
+	height: 100px;
+	position: static;
+	
+}
+.caja_padre{
+	background-color: blue;
+	position: relative;
+	height: 350px ;
+	width: 350px ;
+}
